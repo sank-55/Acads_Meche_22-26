@@ -30,7 +30,7 @@
 <li><strong>Sem 8:</strong> ( Thought) Aircraft Composite, Lubrication and Rotor Dynamics, Mechanics of Human Body, Mechanics of Composites</li>
 </ul>
 * -> Have Laboratory Components
-' -> Breadth Electives
+||   ' -> Breadth Electives
 
 ## Missed uploads
 
