@@ -32,22 +32,7 @@
 * -> Have Laboratory Components
 ||   ' -> Breadth Electives
 
-## Missed uploads
 
-<ul style="font-size: 15px;">
-<li>Modern Refrigeration and Air Conditioning: Andrew D Altouse</li>
-<li>Theory of Hydrodynamic Lubrication: Pinkus</li>
-<li>Basic ECE</li>
-<li>Economics</li>
-<li>Instructional System Design</li>
-<li>Image Processing</li>
-<li>ATF, MTM lab notes</li>
-<li>Machine Design Practice</li>
-<li>Modern Algebra</li>
-<li>Operational Research</li>
-<li></li>
-
-</ul>
 
 
 #### Feel free to commit a pull request if you have more data and want to help the community
